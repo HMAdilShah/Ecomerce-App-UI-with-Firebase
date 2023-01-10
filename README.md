@@ -1,10 +1,12 @@
-# task_by_roger_li
+# Cat purchase ecomerce app starter package
 
-A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+# Shimmer effect
+# Firebase
+# Bottom navigation bar
 
 A few resources to get you started if this is your first Flutter project:
 
